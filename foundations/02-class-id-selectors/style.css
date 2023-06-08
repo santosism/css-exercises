@@ -1,0 +1,22 @@
+p.odd{
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: pink; 
+}
+
+p.odd.font{
+
+    font-size: 24px; 
+
+}
+
+#number2{
+    color: blue; 
+    font-size: 36px; 
+}
+
+#number4{
+
+    background-color: palegreen;
+    font-size: 28px; 
+    font-weight: bold; 
+}
